@@ -1,0 +1,9 @@
+#TYPE Selected.Microsoft.PowerShell.Commands.MatchInfo
+"LineNumber","Filename","Line"
+"28","Footer.jsx","                            <li><a href=""mailto:info@baroque.pk"" className=""text-decoration-none text-secondary hover-text-gold"">Email: info@baroque.pk</a></li>"
+"53","Header.jsx","                        src={isScrolled ? ""https://baroque.pk/cdn/shop/files/Logo_Jpeg_v01.jpg"" : ""https://baroque.pk/cdn/shop/files/LOGO_PNG_white_v01.png""}"
+"56","About.jsx","                        <p>We offer a dynamic work environment where innovation is encouraged and talent is nurtured. If you believe you have what it takes to contribute to our success, reach out to our HR department at careers@baroque.pk.</p>"
+"61","About.jsx","                        <p>Unauthorized use of our intellectual property is strictly prohibited. For legal inquiries, please contact our legal department at legal@baroque.pk.</p>"
+"134","Home.jsx","                            ? ""https://baroque.pk/cdn/shop/files/MAin_BAnner51_76592998-65c9-43f0-b109-bc79829ebe95.jpg?v=1771241205&width=1400"""
+"136","Home.jsx","                                ? ""https://baroque.pk/cdn/shop/files/MAin_BAnner50.jpg?v=1771057778&width=1400"""
+"155","Home.jsx","                        image=""https://images.unsplash.com/photo-1558769132-cb1aea458c5e?q=80&w=1500&auto=format&fit=crop"""
